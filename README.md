@@ -1,5 +1,7 @@
 # vue_crash_todolist
 
+Deployed at https://elated-mirzakhani-259fa5.netlify.app/#/
+
 ## Project setup
 
 ```
